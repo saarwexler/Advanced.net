@@ -1,0 +1,9 @@
+c:\users\saar\documents\visual studio 2015\Projects\ClassLibrary1\PrimeFactorTest\obj\Debug\PrimeFactorTest.csprojResolveAssemblyReference.cache
+c:\users\saar\documents\visual studio 2015\Projects\ClassLibrary1\PrimeFactorTest\bin\Debug\PrimeFactorTest.dll
+c:\users\saar\documents\visual studio 2015\Projects\ClassLibrary1\PrimeFactorTest\bin\Debug\PrimeFactorTest.pdb
+c:\users\saar\documents\visual studio 2015\Projects\ClassLibrary1\PrimeFactorTest\bin\Debug\nunit.framework.dll
+c:\users\saar\documents\visual studio 2015\Projects\ClassLibrary1\PrimeFactorTest\bin\Debug\PrimeFactorKata.dll
+c:\users\saar\documents\visual studio 2015\Projects\ClassLibrary1\PrimeFactorTest\bin\Debug\PrimeFactorKata.pdb
+c:\users\saar\documents\visual studio 2015\Projects\ClassLibrary1\PrimeFactorTest\bin\Debug\nunit.framework.xml
+c:\users\saar\documents\visual studio 2015\Projects\ClassLibrary1\PrimeFactorTest\obj\Debug\PrimeFactorTest.dll
+c:\users\saar\documents\visual studio 2015\Projects\ClassLibrary1\PrimeFactorTest\obj\Debug\PrimeFactorTest.pdb

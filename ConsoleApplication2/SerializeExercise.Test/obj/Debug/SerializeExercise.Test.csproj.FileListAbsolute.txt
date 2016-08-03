@@ -1,0 +1,10 @@
+C:\Users\Saar\Documents\Visual Studio 2015\Projects\ConsoleApplication2\SerializeExercise.Test\bin\Debug\SerializeExercise.Test.dll
+C:\Users\Saar\Documents\Visual Studio 2015\Projects\ConsoleApplication2\SerializeExercise.Test\bin\Debug\SerializeExercise.Test.pdb
+C:\Users\Saar\Documents\Visual Studio 2015\Projects\ConsoleApplication2\SerializeExercise.Test\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+C:\Users\Saar\Documents\Visual Studio 2015\Projects\ConsoleApplication2\SerializeExercise.Test\bin\Debug\Moq.dll
+C:\Users\Saar\Documents\Visual Studio 2015\Projects\ConsoleApplication2\SerializeExercise.Test\bin\Debug\SerializeExercise.exe
+C:\Users\Saar\Documents\Visual Studio 2015\Projects\ConsoleApplication2\SerializeExercise.Test\bin\Debug\SerializeExercise.pdb
+C:\Users\Saar\Documents\Visual Studio 2015\Projects\ConsoleApplication2\SerializeExercise.Test\bin\Debug\Moq.xml
+C:\Users\Saar\Documents\Visual Studio 2015\Projects\ConsoleApplication2\SerializeExercise.Test\obj\Debug\SerializeExercise.Test.csprojResolveAssemblyReference.cache
+C:\Users\Saar\Documents\Visual Studio 2015\Projects\ConsoleApplication2\SerializeExercise.Test\obj\Debug\SerializeExercise.Test.dll
+C:\Users\Saar\Documents\Visual Studio 2015\Projects\ConsoleApplication2\SerializeExercise.Test\obj\Debug\SerializeExercise.Test.pdb

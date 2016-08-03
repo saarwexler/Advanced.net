@@ -1,0 +1,7 @@
+c:\users\saar\documents\visual studio 2015\Projects\ClassLibrary1\ClassLibrary1\bin\Debug\PrimeFactorKata.dll
+c:\users\saar\documents\visual studio 2015\Projects\ClassLibrary1\ClassLibrary1\bin\Debug\PrimeFactorKata.pdb
+c:\users\saar\documents\visual studio 2015\Projects\ClassLibrary1\ClassLibrary1\obj\Debug\PrimeFactorKata.csprojResolveAssemblyReference.cache
+c:\users\saar\documents\visual studio 2015\Projects\ClassLibrary1\ClassLibrary1\obj\Debug\PrimeFactorKata.dll
+c:\users\saar\documents\visual studio 2015\Projects\ClassLibrary1\ClassLibrary1\obj\Debug\PrimeFactorKata.pdb
+c:\users\saar\documents\visual studio 2015\Projects\ClassLibrary1\ClassLibrary1\bin\Debug\nunit.framework.dll
+c:\users\saar\documents\visual studio 2015\Projects\ClassLibrary1\ClassLibrary1\bin\Debug\nunit.framework.xml
